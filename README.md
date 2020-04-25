@@ -1,6 +1,12 @@
 # qr_scanner_generator
 
-A new Flutter project.
+Flutter app with the Features to:
+
+* Scan QR Code with camera on iOS and Android
+* Generate QR Code with text data.
+* Share Generated QR Code image file on iOS and Android
+
+From https://medium.com/flutter-community/building-flutter-qr-code-generator-scanner-and-sharing-app-703e73b228d3
 
 ## Getting Started
 
